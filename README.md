@@ -18,7 +18,7 @@ Check out the live demo [here](https://todo-list-amber-seven-64.vercel.app/)
 
 ## Screenshots
 
-![Screenshot](TodoList.png)
+![Screenshot](todo_app.webp)
 
 
 ## Installation

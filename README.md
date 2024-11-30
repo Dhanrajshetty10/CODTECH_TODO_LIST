@@ -14,7 +14,7 @@ An interactive TodoList made using ReactJS and Tailwind CSS having features like
 
 ## Demo
 
-Check out the live demo [here](https://todo-list-amber-seven-64.vercel.app/)
+Check out the live demo [here](https://codtech-todo-list.vercel.app/)
 
 ## Screenshots
 
@@ -26,7 +26,7 @@ Check out the live demo [here](https://todo-list-amber-seven-64.vercel.app/)
 1. Clone the repository : 
 
 ```bash
-  git clone https://github.com/siddhantmishra0/CODTECH_TodoList.git
+  git clone https://github.com/Dhanrajshetty10/CODTECH_TODO_LIST.git
 ```
 
 2. Open index.html in your browser.
